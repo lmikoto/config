@@ -6,9 +6,6 @@ ZSH_THEME="robbyrussell"
 
 export ZSH="$USER_HOME/.oh-my-zsh"
 
-source $ZSH/oh-my-zsh.sh
-
-
 # https://github.com/zsh-users/zsh-autosuggestions
 # https://brew.sh/
 # brew install autojump
@@ -43,3 +40,5 @@ alias nrdw="npm run dll && npm run web"
 ## yarn
 alias ys="yarn start"
 alias yw="yarn web"
+
+source $ZSH/oh-my-zsh.sh
