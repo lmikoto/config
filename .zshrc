@@ -10,6 +10,7 @@ source $ZSH/oh-my-zsh.sh
 
 
 # https://github.com/zsh-users/zsh-autosuggestions
+# https://brew.sh/
 # brew install autojump
 plugins=(git zsh-autosuggestions autojump)
 
