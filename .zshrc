@@ -31,8 +31,9 @@ alias gac="gitcommit"  # https://github.com/lmikoto/script
 alias gp="git push"
 alias gpl="git pull"
 alias gpo="git push origin"
-alias gc="git checkout"
 alias gcb="git checkout -b"
+alias gb="git branch"
+alias ck="git checkout"
 ## npm
 alias nrw="npm run web"
 alias nrs="npm run start"
